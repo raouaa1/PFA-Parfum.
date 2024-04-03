@@ -203,7 +203,7 @@ return(
           <h2 className="section-title">Parfum récent</h2>
         </div>
         <div className="col-md-6 text-start text-md-end">
-          <a href="#" className="more">Afficher tous les articles</a>
+          <a href="shop.html" className="more">Afficher tous les articles</a>
         </div>
       </div>
       <div className="row">
