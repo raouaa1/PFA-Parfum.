@@ -15,13 +15,13 @@ function Header() {
         <li className="nav-item active">
           <a className="nav-link" href="index.html">Accueil</a>
         </li>
-        <li><a className="nav-link" href="public/Projet/shop.html">Boutique</a></li>
-        <li><a className="nav-link" href="public/about.html">À propos de nous</a></li>
-        <li><a className="nav-link" href="public/contact.html">Contactez-nous</a></li>
+        <li><a className="nav-link" href="shop.html">Boutique</a></li>
+        <li><a className="nav-link" href="about.html">À propos de nous</a></li>
+        <li><a className="nav-link" href="contact.html">Contactez-nous</a></li>
       </ul>
       <ul className="custom-navbar-cta navbar-nav mb-2 mb-md-0 ms-5">
         <li><a className="nav-link" href="Enreg/public/pages-Inscrire.html"><img src="images/user.svg" alt="Description" /></a></li>
-        <li><a className="nav-link" href="public/cart.html"><img src="images/cart.svg" alt="Descriptio" /></a></li>
+        <li><a className="nav-link" href="cart.html"><img src="images/cart.svg" alt="Descriptio" /></a></li>
       </ul>
     </div>
   </div>
